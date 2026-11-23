@@ -7,7 +7,7 @@ Proyek akhir mata kuliah **Pengantar Data Science (PDS)** untuk memprediksi harg
 ## 👥 Anggota Kelompok 6 (Kelas B)
 
 **Program Studi D3 Sistem Informasi**  
-**Fakultas Ilmu Komputer — UPN "Veteran" Jakarta (2026)**[cite: 1]
+**Fakultas Ilmu Komputer — UPN "Veteran" Jakarta (2026)**
 
 | Nama Lengkap | NIM |
 | :--- | :---: |
@@ -72,9 +72,8 @@ Dengan konfigurasi `n_estimators=100`, `max_depth=4`, `learning_rate=0.08`, `sub
 ├── Prediksi_Harga_Rumah_Bekasi.ipynb   # Notebook utama analisis, pemodelan, dan visualisasi
 └── README.md                           # Dokumentasi proyek
 
-🚀 Cara Menjalankan
-Klik tombol Open in Colab di bagian atas file Prediksi_Harga_Rumah_Bekasi.ipynb.
+## 🚀 Cara Menjalankan
 
-Unggah file dataset Dataset 500 Rumah Jabodetabek - Dataset UAS PDS.csv ke direktori /content/ di Google Colab.
-
-Jalankan seluruh sel kode secara berurutan (Runtime > Run all).
+1. Klik tombol **Open in Colab** di bagian atas file `Prediksi_Harga_Rumah_Bekasi.ipynb`.
+2. Unggah file dataset `Dataset 500 Rumah Jabodetabek - Dataset UAS PDS.csv` ke direktori `/content/` di Google Colab.
+3. Jalankan seluruh sel kode secara berurutan (**Runtime > Run all**).
